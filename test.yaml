@@ -1,0 +1,11 @@
+
+
+configuration: english
+
+english:
+    hellotext: hello
+    goodbyetext: goodbye
+
+spanish:
+    hellotext: hola
+    goodbyetext: adios
